@@ -25,6 +25,7 @@ If Setup cannot proceed (e.g. language mismatch or driver conflict), it exits cl
 Right-click the script → **Run with PowerShell** And Enter A To Allow Execution.
 
 ### Option 2: Manual launch
+If there are any issues when launching automatically, Shift+ Right Click in the Folder where you downloaded the Script, "Open Powershell Window Here" and paste this:
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\NoThxImAServer.ps1
 ```
