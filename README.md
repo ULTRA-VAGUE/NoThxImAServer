@@ -1,6 +1,6 @@
 # 🪟💥🌐 TPM? No Thanks Im A Server
 
-**NoThxImAServer** is a PowerShell script that performs a fully unattended upgrade to Windows 11 — perfect for virtual machines, servers, labs, and unsupported PCs. It skips the TPM, CPU, and Secure Boot requirements automatically and requires no user input once launched.
+**NoThxImAServer** is a PowerShell script that performs a fully unattended upgrade to Windows 11. perfect for virtual machines, servers, labs, and unsupported PCs. It skips the TPM, CPU, and Secure Boot requirements automatically and requires no user input once launched.
 
 
 ## 🧠 Will I Lose My Data?
