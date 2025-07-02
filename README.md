@@ -17,7 +17,7 @@ If Setup cannot proceed (e.g. language mismatch or driver conflict), it exits cl
 ## 🌐 Language Notice
 
     ⚠️ Your ISO must match the System Default UI Language of your machine.
-    Example: If your Windows uses American English, your ISO must be the American English one.
+    Example: If your Windows uses American English, your ISO must be the English (United States) one.
 --- 
 ### 🚀 How to Use
 
